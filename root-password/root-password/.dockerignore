@@ -1,0 +1,4 @@
+.*
+!.zipignore
+node_modules
+Dockerfile
