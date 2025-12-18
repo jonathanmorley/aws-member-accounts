@@ -11,7 +11,7 @@
   "dependencies": {
     "strict-password-generator": "^1.1.2",
     "mailparser": "^3.0.0",
-    "chrome-aws-lambda": "^1.12.0",
+    "chrome-aws-lambda": "^10.0.0",
     "puppeteer-core": "^24.0.0"
   }
 }
