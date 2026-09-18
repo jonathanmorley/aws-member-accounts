@@ -1,4 +1,4 @@
-FROM node:alpine@sha256:2c45bdcbf63561a54da9549612084b43ca309854a4110c87857d609ddeb61c9e
+FROM node:alpine@sha256:d1afba4b9c2edf2dcc56684c90e6c670309eecbc558b9d4bc7f530efb9934b43
 WORKDIR /app
 
 # zip is necessary
